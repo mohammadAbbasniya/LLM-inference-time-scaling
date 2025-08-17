@@ -10,3 +10,11 @@ Core parts of the notebook:
 *   **Beam Search:** Implementing and evaluating the Beam Search algorithm for exploring reasoning paths.
 *   **Self-Refinement:** Implementing and evaluating an iterative self-refinement approach.
 *   **Advanced Search Algorithms (Planned):** Outlining the implementation of A*, Monte Carlo Tree Search (MCTS), and Tree of Thoughts (ToT) for future exploration.
+
+
+<br>
+<br>
+
+---
+
+_Completing this notebook was part of the System 2 AI course ([sut-system2](https://sut-system2.github.io/)) I passed during my Master's program._
